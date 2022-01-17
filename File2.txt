@@ -6,3 +6,5 @@ This is an example of a git pull request
 Example of github pull request 2
 
 Example of github pull request 5
+
+Example of github action
